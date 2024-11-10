@@ -35,7 +35,6 @@
     "react-native-screens": "^3.34.0",
     "react-native-svg": "^15.6.0",
     "ReactNative3D": "file:",
-    "ReactNativeAnimation": "file:",
     "three": "^0.168.0"
   },
   "devDependencies": {
